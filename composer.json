@@ -1,0 +1,11 @@
+{
+    "name": "joelbutcher/advent-of-code-2023",
+    "type": "project",
+    "description": "Advent of Code 2023",
+    "authors": [
+        {
+            "name": "Joel Butcher",
+            "email": ""
+        }
+    ]
+}
